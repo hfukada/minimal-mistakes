@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /pssc/index.html
-title: About Pianote
-tagline: Minimal Mistakes, a Jekyll Theme
+title: Project Specific Success Criteria
 tags: [about, Pianote, features]
 modified: 9-9-2013
 image:
