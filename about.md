@@ -1,29 +1,19 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
+title: About Pianote
 tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+tags: [about, Pianote, features]
 modified: 9-9-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-piano.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Pianote is a piano learning device. It is geared toward learning new pieces of music and beginner piano players. By changing the way the notes are represented, users will get a feel for how each piece should be played. The notes are represented as falling objects that will be displayed on a screen, that hit the actual piano key when that note is supposed to be played. Also by gamifying the learning process, users will feel more motivated about playing the piano.
 
-## Minimal Mistakes is all about:
+## Pianote Features
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+* Alternative, easier to read note representation
+* Upload any midi to play along to
+* Will connect to any MIDI enabled keyboard
+* Practice mode where the software will wait for correct input before proceeding.
